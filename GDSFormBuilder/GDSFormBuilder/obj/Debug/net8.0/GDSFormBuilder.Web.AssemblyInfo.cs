@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GDSFormBuilder.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4a8e01268ad776041ee7439a189cb6ecd9cdd65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ce0f54df8e8386b61b4530d7057dd8f9b15566f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GDSFormBuilder.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GDSFormBuilder.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
