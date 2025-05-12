@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSFormBuilder.Web", "GDSFormBuilder\GDSFormBuilder.Web.csproj", "{9F12C3D0-F3F0-4E20-ACAB-1733D39A4EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F12C3D0-F3F0-4E20-ACAB-1733D39A4EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F12C3D0-F3F0-4E20-ACAB-1733D39A4EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F12C3D0-F3F0-4E20-ACAB-1733D39A4EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F12C3D0-F3F0-4E20-ACAB-1733D39A4EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF222979-D9C7-486C-B29C-A92FFD87E821}
+	EndGlobalSection
+EndGlobal
